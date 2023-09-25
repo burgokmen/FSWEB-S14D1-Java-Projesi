@@ -1,4 +1,4 @@
-package brutech;
+package brutech.geometrics;
 
 public class Circle {
     private double radius;
